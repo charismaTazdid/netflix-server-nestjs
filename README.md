@@ -1,71 +1,61 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# Netflix Clone Backend Repo
+Fullstack Netflix clone with  node.js, nest.js and typescript for Server side and react.js, redux, css module, MUI , React router for frontend. I used Firebase for authentication and deployment.
+In this app you can find your favorite Movie, Also you can get Movie By Categoris: 
+- Netflix Original
+- Netflix Trending Now
+- Netflix TOP Rated
+- Netflix Action Movie
+- Netflix Comedy 
+- Netflix Romantic Movie
+- Netflix Documentary etc.
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+also, users can make their Favourite movie list here. To make Your Favourite list, Login/ signup is recommended.
+
+#
+
+## Home Page
+<img alt="Crypto Bazaar" src="https://user-images.githubusercontent.com/69608939/199815843-7acffffc-b8fd-4d6a-b49a-53ca95c010e8.png" height="80%"  />
+
+
+# Built with:
+
+<img  height="24px" align="left" alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
+
+<img height="24px" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"  />
+
+<img height="24px" align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"  />
+
+<img height="24px" align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  />
+
+<img height="24px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  />
+<img height="24px" align="left" alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"  />
+
+<img height="24px" align="left" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"  />
+
+<img height="24px"   alt="React-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  />
+
+
+#
+
+<p>Built with react.js, redux, MUI and node.js with nest.js framework.!
+Fullstack Netflix clone with react.js, redux, css module, MUI , React router for frontend. And  node.js, nest.js and typescript for Server side. also I used Firebase for authentication and deployment. </p>
+
+
+# Live Site Link: 
+
+<a target="_blank" href="https://netflix-clone-rt.netlify.app/"> View Live Site </a>
+
+## live site Link: https://netflix-clone-rt.netlify.app/
+
+## Frontend  code link: https://github.com/raihan-tajdid007/netflix-clone
+
+
+
+
+## Authors
+
+  - **Raihan Tazdid** -
+    [Raihan Tazdid](https://github.com/raihan-tajdid007)
+
  
 
-## Description
-
-
-  #### Fullstack Netflix clone with  node.js, nest.js and typescript for Server side and react.js, redux, css module, MUI , React router for frontend. I used Firebase for authentication and deployment.
-
-  ### fronted code link: https://github.com/raihan-tajdid007/netflix-clone
-
-  ### live site Link: https://netflix-clone-67d1c.web.app/
-
-
-### want to run your local mechine?
-### step1: clone the repo
-### step2: run npm install
-### step3: create a .env file in root directory
-### step4:  add your DB connection string 
-### step5: update the app.module.ts file with your connection string.
-### step6: run the command => "npm run start:dev"
-### That's it! happy coding...😍😍😍
-
-
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-
-## Stay in touch with booss Kamil Myśliwiec
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
-# netflix-server-nestjs
