@@ -40,22 +40,24 @@ also, users can make their Favourite movie list here. To make Your Favourite lis
 <p>Built with react.js, redux, MUI and node.js with nest.js framework.!
 Fullstack Netflix clone with react.js, redux, css module, MUI , React router for frontend. And  node.js, nest.js and typescript for Server side. also I used Firebase for authentication and deployment. </p>
 
+## Live Site Link:
 
-# Live Site Link: 
+<a style="background-color: darkgray; padding: 8px 50px; margin: 13px 0px; border-radius: 5px; text-decoration: none; color: darkblue; font-weight:bold;" href="https://netflix-clone-rta.netlify.app/"> Click To View Live Site </a>
 
-<a target="_blank" href="https://netflix-clone-rt.netlify.app/"> View Live Site </a>
+</br>
+</br>
 
-## live site Link: https://netflix-clone-rt.netlify.app/
+## Client side code link:
 
-## Frontend  code link: https://github.com/raihan-tajdid007/netflix-clone
+<a style="background-color: darkgray; padding: 8px 50px; border-radius: 3px; text-decoration: none; color: darkblue; font-weight:bold;" href="https://github.com/raihan-tajdid007/netflix-clone"> Click To View Frontend Code </a>
 
+</br>
+</br>
 
+## Author:
 
-
-## Authors
-
-  - **Raihan Tazdid** -
-    [Raihan Tazdid](https://github.com/raihan-tajdid007)
+- **Raihan Tazdid** -
+  [Raihan Tazdid](https://github.com/raihan-tajdid007)
 
  
 
