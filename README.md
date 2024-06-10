@@ -14,6 +14,10 @@
   ### fronted code link: https://github.com/raihan-tajdid007/netflix-clone
 
   ### live site Link: https://netflix-clone-67d1c.web.app/
+[wonership varification problem happend, any of link below will work without warning]
+## live site Link: https://netflix-clone-rta.netlify.app/
+## live site Link: https://netflixclone-updated.netlify.app/
+## live site Link: https://netflix-clone-rta.web.app/
 
 
 ### want to run your local mechine?
@@ -58,14 +62,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-
-## Stay in touch with booss Kamil Myśliwiec
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
-# netflix-server-nestjs
+hosted link (render) : https://netflix-server-nestjs.onrender.com
+## live site Link: https://netflix-clone-rta.netlify.app/
+## live site Link: https://netflixclone-updated.netlify.app/
+## live site Link: https://netflix-clone-rta.web.app/
